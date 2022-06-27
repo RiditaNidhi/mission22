@@ -1,0 +1,101 @@
+#text1{
+    color: orange;
+}
+
+#link1{
+    text-decoration: none;
+    background-color: rgb(245, 94, 39);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 10px;
+   
+}
+#text2{
+    font-size: smaller;
+}
+.section1{
+    display: flex;
+    
+}
+.width{
+    width: 50%;
+    
+}
+.width img{
+    width: 70%;
+    margin-left: 30%;
+    
+}
+#up{
+    margin-top: 10%;
+}
+#borderleft{
+    border-left: 2px solid orangered;
+    font-size: larger;
+    
+   
+}
+.a1{
+    margin-left: 5px;
+}
+#font1{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
+color: rgb(255, 224, 46);
+
+}
+#black{
+    color: black;
+}
+
+.image img {
+    width: 40%;
+    
+    
+}
+.image{
+   background-color: bisque;
+   height: 7cm;
+   width: 10cm;
+   padding-left: 1%;
+   padding-right: 2%;
+   font-family: 'Heebo', sans-serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Rubik', sans-serif;
+   
+   border-radius: 3%;
+   text-align: justify;
+   
+
+}
+#flex{
+    display: flex;
+   
+    
+}
+#i1{
+    
+}
+#i2{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#i3{
+   
+}
+body{
+    margin-left: 10%;
+   margin-right: 10%;
+}
+.size1{
+    font-size: small;
+    
+}
